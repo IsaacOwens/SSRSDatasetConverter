@@ -1,0 +1,14 @@
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\bin\Release\DatasetConverter.exe
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\bin\Release\DatasetConverter.pdb
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.MainForm.resources
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.ProcessingForm.resources
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.Properties.Resources.resources
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.csproj.GenerateResource.Cache
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.exe
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.pdb
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.csprojResolveAssemblyReference.cache
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.Results.resources
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\bin\Release\DatasetConverter.exe.manifest
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\bin\Release\DatasetConverter.application
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.exe.manifest
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Release\DatasetConverter.application

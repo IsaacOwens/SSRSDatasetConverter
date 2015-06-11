@@ -1,0 +1,20 @@
+C:\Users\iowens\AppData\Local\Temporary Projects\DatasetConverter\bin\Debug\DatasetConverter.exe
+C:\Users\iowens\AppData\Local\Temporary Projects\DatasetConverter\bin\Debug\DatasetConverter.pdb
+C:\Users\iowens\AppData\Local\Temporary Projects\DatasetConverter\obj\x86\Debug\DatasetConverter.MainForm.resources
+C:\Users\iowens\AppData\Local\Temporary Projects\DatasetConverter\obj\x86\Debug\DatasetConverter.Properties.Resources.resources
+C:\Users\iowens\AppData\Local\Temporary Projects\DatasetConverter\obj\x86\Debug\DatasetConverter.csproj.GenerateResource.Cache
+C:\Users\iowens\AppData\Local\Temporary Projects\DatasetConverter\obj\x86\Debug\DatasetConverter.exe
+C:\Users\iowens\AppData\Local\Temporary Projects\DatasetConverter\obj\x86\Debug\DatasetConverter.pdb
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Debug\DatasetConverter.exe
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Debug\DatasetConverter.pdb
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Debug\DatasetConverter.MainForm.resources
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Debug\DatasetConverter.ProcessingForm.resources
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Debug\DatasetConverter.Properties.Resources.resources
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Debug\DatasetConverter.csproj.GenerateResource.Cache
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\bin\Debug\DatasetConverter.exe
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\bin\Debug\DatasetConverter.pdb
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Debug\DatasetConverter.Results.resources
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\bin\Debug\DatasetConverter.exe.manifest
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\bin\Debug\DatasetConverter.application
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Debug\DatasetConverter.exe.manifest
+U:\My Documents Synced\Visual Studio 2010\Projects\DatasetConverter\DatasetConverter\obj\x86\Debug\DatasetConverter.application
